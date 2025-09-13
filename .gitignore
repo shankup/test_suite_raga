@@ -1,0 +1,12 @@
+# Maven target folder
+/target/
+
+# Allure results
+/allure-results/
+/allure-report/
+
+# VS Code settings
+.vscode/
+
+# Logs
+*.log
